@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sydney Danielson",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "sydney.danielson@student.chaminade.edu",
+    "phone": "952-378-7967",
+    "website": "https://sydneydanielson.github.io",
+    "summary": "I am studying for Data Science at Chaminade University of Honolulu. I expect to graduate in Spring, 2025.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "3140 Waialae Ave.",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,29 +17,16 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "sydneydanielson",
         "url": "http://github.com/changeme"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
+   
+   
+ 
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -58,7 +45,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "SQL",
       "level": "",
       "keywords": [
         "C",
@@ -69,24 +56,14 @@
         "Common Lisp"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
+   
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Chaminade University of Honolulu, Honolulu, HI",
+      "area": "Data Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-25",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +72,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "company": "Jordan Supper Club and Taproom",
+      "position": "Hostess",
+      "website": "
+Jordan Supper Club & Tap Roomhttps://jordansupperclub.com",
+      "startDate": "May 2020",
+      "endDate": "April 2021",
+      "summary": "I was in charge of the customer's initial experience. As a hostess and concierge I was given the task of leading the front of the house team in building our restaurant's reputation for our outstanding customer service. I was also required to multitask by bussing tables, seating customers, preparing tables for new customers, and expediting food. ",
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Northern Life Chiropractic",
+      "position": "Front Desk Coordinator",
+      "website": "
+Northern Life Wellness - Contact Our Team
+Ad·
+https://www.northernlifewellness.com/
+",
+      "startDate": "2018-06-01",
+      "endDate": "2020-06-15",
+      "summary": "As a leader at our front desk, I am in charge of greeting, scheduling, collecting money, explaining insurance benefits, and guiding patients through their clinic experience. 
+",
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "Spots Last Stop",
+      "website": "https://spotslaststop.org/",
+      "position": "Marketing Position and Volunteer in Event",
+      "startDate": "2019-01-01",
+      "endDate": "2019",
+      "summary": "Helped set up and tear down a charity event where we helped abandoned puppies get adopted into families. I also helped with the marketing to get puppies into foster families.
+",
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "organization": "Operation Chritstmas Child",
+      "website": "https://www.samaritanspurse.org/operation-christmas-child/ideas-group-resources/?utm_source=Ggl&utm_medium=cpc&utm_campaign=m_YGOC-B21V&utm_content=MaterialsAndPreprintedBoxes&gclid=CjwKCAjw2P-KBhByEiwADBYWCu3_hPgRpzEIvFbzuvvxFr-Hvgv5db0k0GhyEoYBMdCUlouP8rINGBoCFOsQAvD_BwE",
+      "position": "Orginization Position",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "Organized gifts to be shipped overseas to children who are in need and I labeled and organized all of the gifts for all of the families"
+    },
+{
+      "organization": "FISH (Families and Individuals Sharing Hope",
+      "website": "https://www.fishpartnernetwork.org/",
+      "position": "Orginization Position, Researcher, Leader, Marketing Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Did a huge project and I organized the financial acustition methods for the charity, gave them research on emails, social media platforms and how they can market and advertise their company "
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manager for Girls Hockey",
+      "date": "2019-2020",
+      "awarder": "Prior Lake Girls Hockey Coach",
+      "summary": "Manager for the Varsity and Junior Varsity High School Girls Hockey Team"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Girls Varisty Tennis for 3 Years",
+      "date": "2018, 2019, 2020",
+      "awarder": "Prior Lake Girls Tennis Association",
+      "summary": "Doubles partner in Girls Varsity Prior Lake Tennis Team (2018,2019,2020)
+"
     }
   ],
   "references": [
