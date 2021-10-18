@@ -90,7 +90,7 @@ https://www.northernlifewellness.com/
 ",
     }
   ],
-  "volunteer": [
+  "volunteer" [
     {
       "organization": "Spots Last Stop",
       "website": "https://spotslaststop.org/",
@@ -117,7 +117,7 @@ https://www.northernlifewellness.com/
       "summary": "Did a huge project and I organized the financial acustition methods for the charity, gave them research on emails, social media platforms and how they can market and advertise their company "
     }
   ],
-  "awards": [
+  "awards" [
     {
       "title": "Manager for Girls Hockey",
       "date": "2019-2020",
@@ -132,10 +132,9 @@ https://www.northernlifewellness.com/
 "
     }
   ],
-  "references": [
+  "references" [
     {
       "name": "Available upon request",
       "reference": ""
     }
   ]
-}
