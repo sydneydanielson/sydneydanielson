@@ -20,7 +20,7 @@
         "username": "sydneydanielson",
         "url": "http://github.com/changeme"
       },
-  "interests": [
+  "interests" [
     {
       "name": "cyber security",
       "keywords": [
@@ -39,7 +39,7 @@
       ]
     }
   ],
-  "skills": [
+  "skills" [
     {
       "name": "SQL",
       "level": "",
@@ -54,7 +54,7 @@
     },
    
   ],
-  "education": [
+  "education" [
     {
       "institution": "Chaminade University of Honolulu, Honolulu, HI",
       "area": "Data Science (expected Spring, 2025)",
@@ -66,7 +66,7 @@
       ]
     }
   ],
-  "work": [
+  "work" [
     {
       "company": "Jordan Supper Club and Taproom",
       "position": "Hostess",
